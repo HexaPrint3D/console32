@@ -1,5 +1,6 @@
 # console32
 console_32 is a game console based on the esp32 microcontoller. It features two games with simple graphics. Feel free to fork and upload your own Ideas :)
+I used an esp32 s3 for this projekt because it has a lot of power, it is pretty small and it has a built - in battary charging circuit
 #immages
 <img width="1884" height="2428" alt="shared image (9)" src="https://github.com/user-attachments/assets/66f73085-e684-439f-8717-584a8dff936e" />
 --------------------------------------------------------------------------------------------------------------------------------
